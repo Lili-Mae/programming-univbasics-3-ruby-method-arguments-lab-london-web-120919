@@ -7,6 +7,8 @@ def introduction{name}
   puts "Hi my name is #{name}"
 end
 
+def indtroduction{name , language}
+  puts "Hi my name is #{name} "
   
 
 
